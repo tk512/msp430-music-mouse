@@ -13,6 +13,7 @@ Components needed:
 * Super cheap MSP430 microcontroller (MSP430F2012 to be exact, see http://www.ti.com/product/MSP430F2012)
 * Buzzer for audio
 
+<img src="https://github.com/tk512/msp430-music-mouse/blob/master/components.jpg?raw=true">
 I put this together in a rush, so it certainly didn't look too good.
 
 I sent it, and although it technically worked, someone in Norwegian customs opened it up due to think it was some kind of explosive device.
