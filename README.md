@@ -18,4 +18,4 @@ Components needed:
 <img src="https://github.com/tk512/msp430-music-mouse/blob/master/components.jpg?raw=true">
 I put this together in a rush, so it certainly didn't look too good.
 
-I sent it, and although it technically worked, someone in Norwegian customs opened it up, probably thinking it was some kind of explosive device. I would not really blame them :-)
+Although it all technically worked, someone in Norwegian customs first cracked it open, probably thinking it was some kind of explosive device. I don't really blame them ;-)
