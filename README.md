@@ -5,6 +5,8 @@ My brother likes hacks and pranks, so I decided to build a computer mouse that w
 
 The idea was to send it to him in a padded envelope, and as soon as he pulled out the computer mouse, bizarrely enough it would start playing a melody.
 
+He lives far away (different continent), so I used the low-power features of the Texas Instruments MSP430 microcontroller to ensure that it could remain in a "waiting state" for months (probably years) on 2x AA batteries. Only when the package was opened, and the mouse would start playing, the battery would start depleting.
+
 Totally pointless, yes. But I had fun building this.
 
 Components needed:
