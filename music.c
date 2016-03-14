@@ -1,5 +1,6 @@
 #include "music.h"
 
+// Music player roughly based on Ben Heng's music player @ github.com/benheng/Microprocessors/blob/master/musicplayer.c
 volatile unsigned int sound_enabled = 0;
 volatile unsigned int current_note = G4;
 volatile unsigned int ms_elapsed = 0;
