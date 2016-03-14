@@ -16,6 +16,7 @@ Components needed:
 * Buzzer for audio
 
 <img src="https://github.com/tk512/msp430-music-mouse/blob/master/components.jpg?raw=true">
+<img src="https://raw.githubusercontent.com/tk512/msp430-music-mouse/master/components-with-mouse.jpg">
 I put this together in a rush, so it certainly didn't look too good.
 
 Although it all technically worked, someone in Norwegian customs first cracked it open, probably thinking it was some kind of explosive device. I don't really blame them ;-)
